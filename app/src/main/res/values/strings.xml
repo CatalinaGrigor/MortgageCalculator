@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ExamenFinalCatalina</string>
+    <string name="amortissement_hypo_ans">Amortissement hypo</string>
+    <string name="montant_hypotheque">Montant hypotheque</string>
+    <string name="effacer">effacer</string>
+    <string name="resultat">Resultat</string>
+    <string name="taux_d_interet">Taux d\'interet</string>
+    <string name="montant_hypotheque1">Montant hypotheque</string>
+    <string name="calculer">calculer</string>
+    <string name="taux_interet_annuel">Taux interet annuel</string>
+    <string name="paiement_mensuel">Paiement mensuel</string>
+    <string name="montant_toal_a_payer">Montant toal a payer</string>
+    <string name="montant_total_des_interets">Montant Total des interets</string>
+    <string name="altTauxMauvais">Please type a valid value</string>
+    <string name="altAnsMauvais">Please type a valid value</string>
+    <string name="altHypoMauvais">Please type a valid value</string>
+    <string name="altChampVide">Please type a valid value</string>
+    <string name="altTitreErreur"> Error</string>
+    <string name="inserer">inserer</string>
+    <string name="verifier">verifier</string>
+    <string name="ans">ans</string>
+    <string name="en_pourcentage">en pourcentage</string>
+</resources>
